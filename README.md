@@ -13,3 +13,5 @@ grant {
  };
 
 to your <jre location>\lib\security\java.policy
+
+![redisAdmin](https://media.discordapp.net/attachments/419294985419096064/890102225878274078/unknown.png?width=800&height=600)
